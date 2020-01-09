@@ -1,0 +1,34 @@
+
+Wing2.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Left1
+  rotate: false
+  xy: 60, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Left2
+  rotate: false
+  xy: 112, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Left3
+  rotate: false
+  xy: 164, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Left4
+  rotate: false
+  xy: 2, 2
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1

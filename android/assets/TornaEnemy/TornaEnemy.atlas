@@ -1,0 +1,20 @@
+
+TornaEnemy.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Tornado2
+  rotate: false
+  xy: 39, 2
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+tornado
+  rotate: false
+  xy: 2, 2
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+SimpleEnemy2.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Simple1
+  rotate: false
+  xy: 2, 2
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+Simple2
+  rotate: false
+  xy: 74, 2
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+Simple3
+  rotate: false
+  xy: 146, 2
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+setas.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+seta1
+  rotate: false
+  xy: 2, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+seta2
+  rotate: false
+  xy: 21, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+seta3
+  rotate: false
+  xy: 40, 2
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1

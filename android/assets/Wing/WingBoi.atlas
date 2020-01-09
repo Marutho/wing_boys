@@ -1,0 +1,111 @@
+
+WingBoi.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Attack1
+  rotate: false
+  xy: 2, 2
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Attack2
+  rotate: false
+  xy: 84, 2
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Attack3
+  rotate: false
+  xy: 166, 2
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Attack4
+  rotate: false
+  xy: 248, 2
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Attack5
+  rotate: false
+  xy: 330, 2
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+Bullet
+  rotate: false
+  xy: 528, 12
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+Down1
+  rotate: false
+  xy: 907, 9
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
+Down2
+  rotate: false
+  xy: 644, 13
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+Iddle
+  rotate: false
+  xy: 412, 12
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+Right1
+  rotate: false
+  xy: 701, 12
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Right2
+  rotate: false
+  xy: 753, 12
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Right3
+  rotate: false
+  xy: 805, 12
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+Right4
+  rotate: false
+  xy: 586, 12
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+Up1
+  rotate: false
+  xy: 470, 12
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+Up2
+  rotate: false
+  xy: 857, 9
+  size: 48, 53
+  orig: 48, 53
+  offset: 0, 0
+  index: -1
